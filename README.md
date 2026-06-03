@@ -1,5 +1,5 @@
 # Urlbar History Delete Button
-![Demo](![Demo](zen_mod_product_demo.gif)
+![Demo](zen_mod_product_demo.gif)
 
 Adds a small × button to URL bar history entries.
 
