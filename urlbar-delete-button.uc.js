@@ -47,6 +47,10 @@ console.log("ZEN MOD: Started");
                     return;
                 }
 
+                if (result.heuristic) {
+                    return;
+                }
+
                 const deleteBtn = document.createElement("div");
 
                 deleteBtn.className = "custom-urlbar-delete-btn";
