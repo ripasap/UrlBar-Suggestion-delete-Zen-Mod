@@ -41,11 +41,3 @@ Now that the engine is running, we can install the actual delete button script.
 4. Move the downloaded `urlbar-delete-button.uc.js` file into the new `JS` folder.
 5. Go back to Zen Browser, type `about:support` in the address bar.
 6. Either close and restart the browser OR click the **Clear startup cache...** button at the top right. Zen will restart, and your mod will be active!
-
----
-
-## Usage
-
-1. Open the URL bar
-2. Hover over a history entry
-3. Click the **×** button to permanently remove it from browsing history
